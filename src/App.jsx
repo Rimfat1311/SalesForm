@@ -26,7 +26,7 @@ const App = () => {
       <div className="flex space-x-6 w-full max-w-4xl p-4">
         {/* Form Section */}
         <form className="w-full max-w-md bg-white border border-gray-300 p-6 rounded-lg shadow-md">
-          <h3 className="mb-4 text-center text-xl font-bold text-blue-600">Sales Form</h3>
+          <h3 className="mb-4 text-center text-xl font-bold text-blue-600">Sales Form </h3>
 
           <div className="mb-3">
             <label className="block text-sm font-semibold text-gray-700 mb-1" htmlFor="item">Item</label>
